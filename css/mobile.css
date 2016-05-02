@@ -1,0 +1,156 @@
+body{
+	background : #78C7CC;
+}
+
+.container{
+	width : 100%;
+	margin : 0 auto;
+	height: 600px;
+}
+
+/* Social buttons top right*/
+
+#socialsharebanner {
+	position: 			relative;
+    right: 				0px;
+    width: 				100px;
+    float: 				right;
+    padding-top: 		30px;
+
+	}
+
+.half {
+    width: 30px;
+}
+
+.half2 {
+    width: 27px;
+}
+
+/* Name centered on homepage */
+
+
+#myname {
+		font-family: 	'Great Vibes', cursive;		color: 			black;
+		font-size: 		30pt;
+		margin: 		auto;
+		font-weight: 	10;
+		letter-spacing: 0px;
+		position: 		relative;
+		clear: 			both;
+		padding-top: 	30px;
+		padding-bottom: 30px;
+		text-align: 	center;
+
+
+}
+
+/* Name top left */
+
+
+#myname_topleft {
+		font-family: 	'Great Vibes', cursive;		color: 			black;
+		font-size: 		15pt;
+		margin: 		auto;
+		font-weight: 	10;
+		letter-spacing: 0px;
+		position: 		relative;
+		text-align: 	left;
+		padding-top: 	30px;
+		padding-left: 	30px;
+
+
+
+}
+
+/* fonts */
+
+h1  {
+	text-align: center;
+	padding-top: 20px;
+	padding-left: 20px;
+}
+
+h2 {
+		font-size: 		15pt;
+		margin: 		left;
+		letter-spacing: 1px;
+		text-align: 	left;
+		font-family: 	'Open Sans', sans-serif;
+		padding-left: 	20px;
+
+}
+
+h4 {
+
+	font-family: 		'Open Sans', sans-serif;
+	color: 				black;
+	font-size: 			10pt;
+	margin-top: 		-50px;
+	font-weight: 		20px;
+	letter-spacing: 	2px;
+	text-align: 		center;
+
+}
+
+p {
+	font-family: 		'Open Sans', sans-serif;
+	font-size: 			10pt;
+	margin-top: 		0px;
+	letter-spacing: 	1px;
+	text-align: 		left;
+	padding top:		-50px;
+	padding-bottom: 	20px;
+	padding-left:		20px;
+}
+
+
+/* Navagation buttons centered */
+
+.nav{
+    list-style:			none;
+    margin:				auto;
+    text-align:			center;
+    padding-bottom: 	50px;
+
+
+}
+
+
+.nav li{
+    display:			inline;
+    color: 				white;
+    text-align: 		center;
+	text-decoration: 	none;
+}
+
+.nav a{
+    display:			inline-block;
+    color: 				black;
+    text-align: 		center;
+    text-decoration: 	none;
+    font-size: 			8pt;
+    font-family: 		sans-serif;
+    background: 		white;
+    font-style: 		bold;
+    padding: 			8px 30px;
+    border:				3px solid black;
+    border-spacing: 	0px;
+    clear: 				both;
+    margin-right: 		-8px;
+    margin-top: 		-3px;
+    font-family: 		'Open Sans', sans-serif;
+    letter-spacing: 	2px;
+    position: 			relative;
+
+}
+
+.image_block {
+	background: 	white;
+	padding-top: 	0px;
+	margin: 		auto;
+	width:			100%;
+	padding-top:	20px;
+
+}
+
