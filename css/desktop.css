@@ -1,9 +1,10 @@
 body{
-	background : #78C7CC;
+	background : #A7DBD8;
+	margin : 0px;
 }
 
 .container{
-	width : 1024px;
+	width : 100%;
 	margin : 0 auto;
 	height: 600px;
 }
@@ -150,7 +151,7 @@ p {
 .image_block {
 	background: 	white;
 	padding-top: 	0px;
-	margin: 		auto;
+	/*margin: 		auto;*/
 	width:			100%;
 	padding-top:	20px;
 }
