@@ -1,10 +1,9 @@
 body{
-	background : #A7DBD8;
-	margin : 0px;
+	background : #78C7CC;
 }
 
 .container{
-	width : 100%;
+	width : 1024px;
 	margin : 0 auto;
 	height: 600px;
 }
@@ -145,13 +144,13 @@ p {
     position: 			relative;
 
 
-
+/* Image Block */
 }
 
 .image_block {
 	background: 	white;
 	padding-top: 	0px;
-	/*margin: 		auto;*/
+	margin: 		auto;
 	width:			100%;
 	padding-top:	20px;
 }
